@@ -126,6 +126,7 @@ height: 100%;
 
 .content {
 flex: 70%;
+font-family: 'Abel',cursive;
 }
 
 @media screen and (max-width: 600px) {
@@ -147,13 +148,13 @@ width: 100%;
 display: block;
 padding: 0px;
 }
-.blockmenu
-{
+
+.blockmenu{
 width: 80%;
 height: 150px;
 }
-.iconmenu
-{
+
+.iconmenu{
 width: 100%;
 height: 110px;
 overflow: hidden;
