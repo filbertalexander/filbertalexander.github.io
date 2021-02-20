@@ -16,5 +16,5 @@ function json(response) {
 // Blok kode untuk meng-handle kesalahan di blok catch
 function error(error) {
   // Parameter error berasal dari Promise.reject()
-  
+
 }
