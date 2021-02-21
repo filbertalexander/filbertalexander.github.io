@@ -4330,9 +4330,10 @@ nav .brand-logo {
   position: absolute;
   color: #fff;
   display: inline-block;
-  font-size: 1.5rem;
+  font-size: 18px;
   padding: 0;
 }
+
 
 nav .brand-logo.center {
   left: 50%;
