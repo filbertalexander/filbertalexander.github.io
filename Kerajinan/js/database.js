@@ -12,7 +12,7 @@ function getTanaman() {
     var tanamanlistHTML = "";
     data.tanamanDetail.forEach(function(tanaman){
       tanamanlistHTML += `
-        <div class = "col m4 s6">
+        <div class = "col m4 s4">
           <div class = "card">
             <a href="detailtanaman.html?ID=${tanaman.ID}">
               <div class="card-image waves-effect waves-block waves-light">
